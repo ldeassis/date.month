@@ -1,0 +1,14 @@
+Package: date.month
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Leonard de Assis
+Maintainer: Leonard M. Assis <leonard@ldeassis.work>
+Description: Just some functions to calculate difference (in months) between two
+    dates
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    lubridate
+RoxygenNote: 5.0.1
